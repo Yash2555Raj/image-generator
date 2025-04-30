@@ -1,4 +1,4 @@
-
+const key = "YOUR_HUGGINGFACE_API_KEY"; // Replace with your valid Hugging Face API key
 const inputText = document.getElementById("input");
 const image = document.getElementById("image");
 const genBtn = document.getElementById("btn");
